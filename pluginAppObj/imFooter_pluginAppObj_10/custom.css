@@ -1,0 +1,29 @@
+#imFooter_pluginAppObj_10 .error_post_container{
+    width: 99%;
+}
+
+#imFooter_pluginAppObj_10 .error_post_thumb img {
+    float: left;
+    clear:left;
+    width:16px;
+    height:16px;
+}
+
+#imFooter_pluginAppObj_10 .error_post_content {
+    margin-left: 22px;
+}
+
+#imFooter_pluginAppObj_10 iframe.error_post_content {
+    margin-left: 14px;
+}
+
+#imFooter_pluginAppObj_10 .p_error_ui{
+    font-family: "Segoe UI";
+    font-size: 9pt;
+    line-height: 1.8;
+}
+
+#imFooter_pluginAppObj_10 {
+    width: 560px;
+    max-width: 100%;
+}
